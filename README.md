@@ -1,5 +1,5 @@
 # Air-Quality-Prediction
-Predicts air quality using data from an experimental sensor. The sensor does not directly give air quality information but instead has abstracted values to represent certain concentrations of air pollutants. These data points are input into a neural network which trains off of the given data and produces output that are used for the prediction of real contaminant values. These values are then used to produce the overall Air Quality Index (AQI) to determine the accuracy of the model.
+Predicts air quality using data from an experimental sensor. The sensor does not directly give air quality information but instead has abstracted values to represent certain concentrations of air pollutants. These data points are input into a neural network which trains off of the given data and produces outputs that are used for the prediction of real contaminant values. These values are then used to produce the overall Air Quality Index (AQI) to determine the accuracy of the model.
 
 <img width="1038" height="582" alt="Image" src="https://github.com/user-attachments/assets/89e40fd0-4a61-42f8-b463-87ed45504485" />
 
